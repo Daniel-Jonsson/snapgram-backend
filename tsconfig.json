@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext", // for ES module project
+        "moduleResolution": "NodeNext", // matching to find imported code correctly
+        "target": "ES2020", // ES module version
+        "sourceMap": true, // Matches compiled JS to TS to help with debugging
+        "outDir": "dist",
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*"],
+    
+}
+

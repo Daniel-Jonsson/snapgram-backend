@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf661e2e-928a-4378-b355-baf3876b90cc/resourceGroups/dt167g/providers/Microsoft.Web/sites/dajo1903-project-vt24-backend-dt167g",
+    "appService.deploySubpath": "."
+}
